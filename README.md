@@ -22,6 +22,10 @@ This project is a basic setup to write Mobile Automation tests with Appium and T
   `Appium Inspector or UiAutomationViewer`
     
   `Environment Variables for JAVA_HOME, MAVEN_HOME and PATH Variables`
+  
+  `Appium session should be up and running`
+  
+  `If using emulators the it should be up and running`
     
   `TestNg`
   
